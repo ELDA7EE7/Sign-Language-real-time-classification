@@ -18,6 +18,8 @@ button_style = {
     "height": 2
 }
 
+#for testing
+
 def upload_image(image_label, right_frame):
     file_path = filedialog.askopenfilename()
     if file_path:
